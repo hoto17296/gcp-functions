@@ -1,0 +1,2 @@
+oauthlib
+google-cloud-bigquery[pandas,pyarrow]
